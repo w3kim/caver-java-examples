@@ -1,0 +1,3 @@
+rootProject.name = 'caver-java-examples'
+include 'erc20-example'
+
